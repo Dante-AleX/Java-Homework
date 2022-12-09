@@ -2,7 +2,7 @@
 Вывести все простые числа от 1 до 1000
  */
 
-package Java_Homework;
+package Java_Homework.Homework_1;
 
 import java.util.ArrayList;
 import java.util.BitSet;

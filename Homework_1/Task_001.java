@@ -3,7 +3,7 @@
 n! (произведение чисел от 1 до n)
  */
 
-package Java_Homework;
+package Java_Homework.Homework_1;
 
 import java.util.Scanner;
 
